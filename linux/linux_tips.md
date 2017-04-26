@@ -54,6 +54,10 @@ This will remove all local untracked files, so only git tracked files remain:
 
     git clean -fdx
 
+### Git skills
+
+https://github.com/521xueweihan/git-tips    
+
 ### How to write a better commit message for git?
 
     https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message
