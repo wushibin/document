@@ -14,3 +14,4 @@ xrandr --addmode VGA1 "1920x1080_60.00"
 ### Enable the root user
 
 https://askubuntu.com/questions/44418/how-to-enable-root-login
+http://www.configserverfirewall.com/ubuntu-linux/enable-ubuntu-desktop-root-login/
