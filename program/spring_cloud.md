@@ -21,3 +21,13 @@ spring:
         defaultContext: apps
         profileSeparator: '::'
 ```
+
+#### Disable auto registration
+
+```
+    discovery:
+      enabled: false
+```
+
+
+https://stackoverflow.com/questions/44486165/how-to-disable-eureka-and-spring-cloud-config-in-a-webmvctest

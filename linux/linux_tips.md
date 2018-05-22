@@ -108,4 +108,23 @@ Reference: http://unix.stackexchange.com/questions/64148/how-do-i-make-ls-show-f
 
 For more usage information about __top__ , refer to the __top__ man page.
 
+### Configure the SSH
+
+    http://www.cnblogs.com/readleafblackrain/p/3970735.html
+    http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
+
+### Tcpdump usage
+
+    tcpdump -i any -vvnn dst  port 8080 -w dump.cap
+
+    http://blog.csdn.net/runboying/article/details/7166378
+
+### Curl Usage (Get Or Post)
+
+    curl "http://localhost:8080/example/call?name=john"
+    curl -H 'Content-Type: application/json' -d '{}' http://localhost:8080/example/foo/bar
+
+### Sed 命令
+
+    http://www.cnblogs.com/dong008259/archive/2011/12/07/2279897.html
 
